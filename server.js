@@ -9,7 +9,8 @@ console.log("server will start on port: ", process.env.PORT)
 server
   .use(bodyParser.json())
   .post("/webhook", (req, res) => {
-    console.log('request received')
+    // console.log('request received')
+    // console.log(req.body)
     return res.json(createEchoResponse(req.body))
   })
   .listen(process.env.PORT)
