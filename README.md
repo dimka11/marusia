@@ -1,7 +1,9 @@
-# Cкилл «Эхо»
+# Маруся
 
-Скилл доступен по Webhook URL: https://marusia-skill-echo.glitch.me/webhook
+## 10, 20, 30
 
-Повторяет сообщение пользователя: `response.text` и `response.tts` равны полю `request.original_utterance` запроса.
+webhook навыка:
 
-Подробнее о создании скилов для Маруси можно узнать тут: [https://vk.com/dev/marusia_skill_docs](https://vk.com/dev/marusia_skill_docs)
+https://lit-dawn-83493.herokuapp.com/webhook
+
+Скринкаст: https://www.youtube.com/watch?v=lvgKUAX_fFI
