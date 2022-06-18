@@ -1,5 +1,9 @@
 # Маруся
 
-## 10 
+## 10, 20, 30
 
-https://git.heroku.com/lit-dawn-83493.git
+webhook навыка:
+
+https://lit-dawn-83493.herokuapp.com/webhook
+
+Скринкаст: https://www.youtube.com/watch?v=lvgKUAX_fFI
